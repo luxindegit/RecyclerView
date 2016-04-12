@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-b00948ff61d12db8146f425478f02539a8df0c85.jar" />
+    </item>
+    <item
+        jar="E:\AS_SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-77eb5b06c98d7119bb28fd4400432a1a7eb2fb69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\classes-dd83fc4cb763127590571eaecc68cbfbc085e80d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\classes-0a2fb0c6fa087b67da3f772270ef1b7697e72f5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3713f30726299231eddfb206043ebb72a2519b6f">
+        <dex dex="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\classes-33c1024049cb605011ed54f02505184e0596fb07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="C:\Users\Administrator\Desktop\RecyclerView\Application\build\intermediates\pre-dexed\debug\classes-0b3aeca0e2eda8878e03d8fcc88a76068a182aa9.jar" />
+    </item>
+
+</items>
